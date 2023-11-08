@@ -3,7 +3,6 @@
 collections:
   - name: community.general
   - name: ibm.power_aix
-  - name: ibm.powerha_aix
   - name: ibm.power_aix_sap
   - name: ibm.power_hmc
   - name: ibm.power_aix_oracle_rac_asm
