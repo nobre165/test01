@@ -2,7 +2,6 @@
 ---
 collections:
   - name: community.general
-  - name: ansible.builtin
   - name: github_user.github_collection
     src: https://github.com/nobre165/test01.git
     version: master
