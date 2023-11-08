@@ -2,10 +2,6 @@
 ---
 collections:
   - name: community.general
-  - name: github_user.github_collection
-    src: https://github.com/nobre165/test01.git
-    version: master
-    type: git
   - name: ibm.power_aix
   - name: ibm.powerha_aix
   - name: ibm.power_aix_sap
