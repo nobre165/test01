@@ -6,9 +6,15 @@ collections:
   - name: ansible.builtin
     version: 1.1.0
   - name: github_user.github_collection
-    src: https://github.com/github_user/github_collection.git
+    src: https://github.com/nobre165/test01.git
     version: master
     type: git
-    client_id: YOUR_GITHUB_CLIENT_ID
-    client_secret: YOUR_GITHUB_CLIENT_SECRET
-  - name: galaxy_user.galaxy_collection
+  - name: ibm.power_aix
+  - name: ibm.power_aix_sap
+  - name: ibm.power_hmc
+  - name: ibm.power_aix_oracle_rac_asm
+  - name: ibm.power_vios
+  - name: ibm.ds8000
+  - name: ibm.power_aix_oracle
+  - name: ibm.power_linux_sap
+  - name: ibm.cloud
