@@ -14,4 +14,6 @@ collections:
   - name: https://github.com/nobre165/mycoll.git
     type: git
     version: main
-    
+  - name: https://github.com/nobre165/mycoll02.git
+    type: git
+    version: main
