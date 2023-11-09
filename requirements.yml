@@ -17,3 +17,4 @@ collections:
   - name: https://github.com/nobre165/mycoll02.git
     type: git
     version: main
+    token: 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
