@@ -11,7 +11,7 @@ collections:
   - name: ibm.power_aix_oracle
   - name: ibm.power_linux_sap
   - name: ibm.cloud
-  - name: ibm.mycoll
-    src: git@github.com:nobre165/mycoll.git
-    scm: git
+  - name: git@github.com:nobre165/mycoll.git
+    type: git
+    version: main
     
