@@ -14,6 +14,5 @@ collections:
   - name: https://github.com/nobre165/mycoll.git
     type: git
     version: main
-  - name: ibm.mycoll02
-    src: git+https://github.com/nobre165/mycoll02.git,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
+  - name: git+https://github.com/nobre165/mycoll02.git,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
     version: main
