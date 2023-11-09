@@ -14,4 +14,4 @@ collections:
   - name: ibm.mycoll
     src: git@github.com:nobre165/mycoll.git
     scm: git
-    version: main
+    
